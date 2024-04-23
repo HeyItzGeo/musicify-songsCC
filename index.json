@@ -262,7 +262,7 @@
       "type":"song",
       "name":"Still Alive, Portal",
       "author":"Valve Team",
-      "speed":1,
+      "speed":3,
       "file":"https://github.com/OmriOn/musicify-songs/raw/main/stillalive.dfpwm",
       "time":153
     },
